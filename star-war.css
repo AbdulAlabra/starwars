@@ -1,0 +1,47 @@
+
+body{
+    height: 100%;
+    background-image:url("https://i0.wp.com/thefreshimages.com/wp-content/uploads/2018/02/star-wars-wallpaper-6.jpg?resize=1920%2C1080&ssl=1");
+    opacity: 1; 
+    color:rgb(70, 0, 235);
+}
+
+h1{
+    text-align: center;
+}
+
+
+ img{
+    height: 80px;
+    width: 80px;
+
+}
+p{
+display: inline;  
+background: rgba(0, 255, 136, 0.801);
+position: fixed; 
+margin-top: 40px;
+width: 80px; 
+opacity: 1;
+text-align: center;
+
+} 
+.players{
+    float: left;
+    padding: 3px;
+    border: solid;
+    border-color: green;
+    margin: 10px;
+    
+}
+
+
+h2{
+    clear: both;
+}
+strong{
+   text-align: center;
+}
+.hpp1{
+    color: red;
+}
